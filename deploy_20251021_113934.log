@@ -1,0 +1,2 @@
+[1;32m[INFO][0m --- Collecting Deployment Parameters ---
+[1;31m[ERROR][0m SSH key file not found: ~/.ssh/devops-key.pem
